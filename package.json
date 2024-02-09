@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "G.Joyce",
-  "license": "MIT",
+  "author": "Gordon J",
+  "license": "Unlicense",
   "devDependencies": {
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2"
