@@ -1,5 +1,5 @@
 /*
-** G.Joyce - Binary Search Tree validation algorithm
+** Gordon J - Binary Search Tree validation algorithm
 ** Feb, 08, 2024
 **
 ** A binary search tree node is characterized by a left child node of lesser value, and a right child node of larger value.
